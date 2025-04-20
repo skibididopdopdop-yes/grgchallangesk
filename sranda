@@ -1,6 +1,6 @@
 git init
 git add .
-git commit -m "prvý commit"
+git commit -m "Prvý commit grgacej stránky"
 git branch -M main
-git remote add origin https://github.com/sranda/grgchallangesk.git
+git remote add origin https://github.com/nasrandu/sanicek.git
 git push -u origin main
